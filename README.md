@@ -24,4 +24,5 @@ Python и МЛ.
 
 # Контакты:
 https://t.me/Antohhin
-mazilin.ant@ya.ru
+
+mazilin.ant@yandex.ru
