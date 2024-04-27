@@ -19,8 +19,8 @@ considering proposals, it is important for me to have a large amount of data, th
 more the better; the maturity of the team; the opportunity for professional growth;
 structured processes. I am in Moscow, considering the option of remote work.
 
-I am a data analyst with experience in FoodTech. \
-I received a Master's degree in Applied Mathematics from MAI. I am passionate about data analysis, building data marts, ETL/ELT pipeline development
+I am a data engineer with experience in FoodTech. \
+I received a Master's degree in Applied Mathematics from MAI. I am passionate about DWH development, building data marts, ETL/ELT pipeline development
 and big date.
 
 # Написать мне можно здесь:
