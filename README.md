@@ -29,7 +29,7 @@ https://t.me/tojetoni
 mazilin.ant@yandex.ru
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE4endiZTI2cnQ1d2E3MGVlcHA2OXF4bmlsOHA5ZHVjNmw0YTU0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u30KaBrQyRhPvic1gX/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
