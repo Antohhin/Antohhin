@@ -27,3 +27,5 @@ and big date.
 https://t.me/tojetoni
 
 mazilin.ant@yandex.ru
+
+<iframe src="https://giphy.com/embed/u30KaBrQyRhPvic1gX" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-space-vaporwave-u30KaBrQyRhPvic1gX">via GIPHY</a></p>
