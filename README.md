@@ -33,12 +33,6 @@ mazilin.ant@yandex.ru
 </div>
 
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/anton-mazilin/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://mazilin.ant@yandex.ru">
-    <img src="https://img.shields.io/badge/GMail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-  </a>
   <a href="https://t.me/tojetoni">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
