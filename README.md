@@ -8,6 +8,8 @@ I am a Data Engineer at MTS, where I build and optimize data foundations for hig
 
 * ML Collaboration: Partnering with ML teams to deliver data products that drive measurable business outcomes and improve recommendation accuracy.
 
+* Also work at (the Localkitchen, Sber recommendation platform) 4 years of experience.
+
 🎶 Beyond the Code:
 * Music: When I'm not optimizing pipelines, I’m likely practicing guitar or discovering new deep house sets on YT.
 
