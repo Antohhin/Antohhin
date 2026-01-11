@@ -1,13 +1,10 @@
 # About me
-
-Data Engineer with **5 years** of building production PySpark and Airflow pipelines alongside recommendation systems. Proficient in designing and managing large-scale batch ETL processes, working in tandem with ML teams to produce substantial business outcomes (CTR, GMV, recommendation coverage).
-
 Here's a list of things I currently keep myself busy with:
 
-👩💻 Working as an Data Engineer @MTS recommendation platform - using all flavours pySpark, Airflow, AWS S3 and BI tooling.
-✍️ Proficient in designing and managing large-scale batch ETL processes, working in tandem with ML teams to produce substantial business outcomes.
-🎶 Listening to the deep hpuse music DJ set on YT and playin on guitar.
-Learning languages: English, German
+- 💻 Working as an Data Engineer @MTS recommendation platform - using all flavours pySpark, Airflow, AWS S3 and BI tooling.
+- ✍️ Proficient in designing and managing large-scale batch ETL processes, working in tandem with ML teams to produce substantial business outcomes.
+- 🎶 Listening to the deep hpuse music DJ set on YT and playin on guitar.
+- Learning languages: English, German
 
 # Contact me:
 [telegram chat](https://t.me/tojetoni) \
