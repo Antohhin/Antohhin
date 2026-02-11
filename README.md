@@ -1,8 +1,8 @@
 # 🚀 Data Engineer | Building Scalable Data Infrastructure
-I am a Data Engineer at MTS, where I build and optimize data foundations for high-traffic recommendation platforms. My focus is on bridging the gap between raw data and actionable ML insights.
+I am a Data Engineer at Sber-Tech, where I build and optimize data foundations for high-traffic recommendation platforms. My focus is on bridging the gap between raw data and actionable ML insights.
 
 🛠 What I’m currently focused on:
-* Data Orchestration @ MTS: Designing and maintaining large-scale batch ETL processes using PySpark and Airflow.
+* Data Orchestration @ Sber-Tech: Designing and maintaining large-scale batch ETL processes using PySpark and Airflow.
 
 * Cloud Infrastructure: Managing data lifecycles within AWS S3 and ensuring seamless integration with BI tooling.
 
